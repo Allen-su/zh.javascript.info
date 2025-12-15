@@ -23,7 +23,7 @@ let json = `{ "name": "John", "age": 30 }`;
 
 我们的 `ValidationError` 类应该继承自 `Error` 类。
 
-`Error` 类是内建的，但这是其近似代码，所以我们可以了解我们要扩展的内容：
+`Error` 类是内建的，但我们可以通过下面这段近似代码理解我们要扩展的内容：
 
 ```js
 // JavaScript 自身定义的内建的 Error 类的“伪代码”
@@ -36,7 +36,7 @@ class Error {
 }
 ```
 
-现在让我们从其中继承 `ValidationError`，并尝试进行运行：
+现在让我们从其中继承 `ValidationError` 试一试：
 
 ```js run untrusted
 *!*
@@ -247,7 +247,7 @@ try {
 2. 函数`readUser` 将捕获内部发生的数据读取 error，例如 `ValidationError` 和 `SyntaxError`，并生成一个 `ReadError` 来进行替代。
 3. 对象 `ReadError` 会把对原始 error 的引用保存在其 `cause` 属性中。
 
-之后，调用 `readUser` 的代码只需要检查 `ReadError`，而不必检查每种数据读取 error。并且，如果需要更多 error 细节，那么可以检查 `readUser` 的 `cause` 属性。
+之后，调用 `readUser` 的代码只需要检查 `ReadError`，而不必检查每种数据读取 error。并且，如果需要更多 error 细节，那么可以检查 `ReadError` 对象的 `cause` 属性。
 
 下面的代码定义了 `ReadError`，并在 `readUser` 和 `try..catch` 中演示了其用法：
 

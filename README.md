@@ -3,48 +3,14 @@
 [![Gitter](https://img.shields.io/badge/chat-Gitter-forest.svg)](https://gitter.im/zh-javascript-info/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/TheModernJavaScriptTutorial)
 
-本教程为 [React 官方文档](https://reactjs.org/docs/getting-started.html#javascript-resources) 与 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 共同推荐的前端教程，持续更新，永久免费，欢迎扫码关注微信公众号，加入读者群。群内自由交流技术，群友帮忙答疑，共同进步！
+本教程为 [React 官方文档](https://reactjs.org/docs/getting-started.html#javascript-resources) 与 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 共同推荐的前端教程，持续更新，永久免费，欢迎扫码关注微信公众号，加入读者群。
 
-<!--
-
-- 如果你正在使用本教程学习，并且认为对你有很大帮助，也请你考虑扫码赞助本项目，请我读一本书 📚
-
-| 微信扫码关注官方公众号，订阅更多精彩内容 | 赞助项目（支付宝）| 赞助项目（微信）|
-|-|-|-|
-| <img src="https://user-images.githubusercontent.com/26959437/64488661-0e0d2c00-d27d-11e9-82cd-751f65346617.jpg" width="400px;" /> | <img src="https://user-images.githubusercontent.com/26959437/77983009-62264d80-7340-11ea-8af9-0690289599af.jpeg" width="200px;" /> | <img src="https://user-images.githubusercontent.com/26959437/77983315-496a6780-7341-11ea-9e44-c28a942feabe.jpeg" width="200px;" /> |
-
--->
-
-| 微信扫码关注官方订阅号，订阅更多精彩内容 |
-|-|
-| <img src="https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png" width="500px;" /> |
-| <img src="https://user-images.githubusercontent.com/26959437/120764353-a61b7080-c54a-11eb-8a79-75177c342b45.png" width="500px;" /> |
-
-**加入读者交流群：**
-
-- **微信群**：加微信 **`imleviding`** 或 [扫二维码](https://user-images.githubusercontent.com/26959437/64596211-0fa63380-d3e6-11e9-983d-bd788ffe2370.jpg)，验证信息填写 **`JS 教程`**。
-- **QQ 群**：打开 QQ 搜索群号 **`955916282`** 或 [扫二维码](https://user-images.githubusercontent.com/26959437/138594800-29700a46-0cb1-45bd-b614-4b6486cf0124.jpg)，验证信息填写 **`JS 教程`**。
-
-教程配套每日一题：https://github.com/leviding/one-note-a-day
+| 微信扫码关注公众号，加微信好友进群 |
+|:----------------------------:|
+| <img src="https://github.com/user-attachments/assets/7a818138-1c6c-4abe-bf6e-a76648d98b4d" width="310px;" /> |
+| 加好友请备注 `JS`，不备注不通过 |
 
 本项目托管了现代 JavaScript 教程中文版的内容，此内容发布在 [https://zh.javascript.info](https://zh.javascript.info)
-
-## Mock 工具
-
-<a href="https://datayi.cn/w/nRbOawVP" target="_blank"><img src="https://user-images.githubusercontent.com/26959437/189130319-846e1e33-3b47-4cbc-8fe1-0fa87db5362f.svg" width="300px;" target="_blank"/></a>
-
-分享一个好用的开源接口 Mock 工具：[https://github.com/eolinker/eoapi](https://datayi.cn/w/nRbOawVP)
-
-除了 Mock 功能，还集合了 API 管理和测试功能，还可以通过插件广场帮助你将 API 发布到各个应用平台，比如发布到网关上完成 API 上线，或者和低代码平台结合，将 API 快速变成低代码平台中可使用的组件等。
-
-<!--
-
-## 赞助商
-
-<a href="https://coding.net/?utm_source=javascript-tutorial-zh&utm_medium=banner&utm_campaign=march2019" target="_blank"><img src="https://user-images.githubusercontent.com/26959437/56273145-c56aa000-612e-11e9-9137-a1388ef18cf2.png" width="300px;" target="_blank"/></a>
-
--->
-
 
 ## 目录
 
@@ -283,9 +249,18 @@ importance: 5
 
 本中文版教程的核心维护者 🚀
 
-- LeviDing [@leviding](https://github.com/leviding)
-- Martin [@MartinsYong](https://github.com/MartinsYong)
-- Bemself [bemself](https://github.com/bemself)
-- LycheeEng [@lycheeEng](https://github.com/lycheeEng)
+**Admin:**
+
+- [LeviDing](https://github.com/leviding)
+
+**当前活跃维护者:**
+
+- [LeviDing](https://github.com/leviding)
+
+**历史核心维护者:**
+
+- [MartinsYong](https://github.com/MartinsYong)
+- [bemself](https://github.com/bemself)
+- [lycheeEng](https://github.com/lycheeEng)
 
 我们希望与大家合作维护本教程。本教程的详细贡献者列表请见：<https://zh.javascript.info/about>。
